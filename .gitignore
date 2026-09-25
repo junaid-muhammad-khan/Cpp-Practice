@@ -1,0 +1,10 @@
+# Compiled binaries
+src/*
+!src/*.cpp
+!src/*.txt
+
+# Debug symbols
+*.dSYM/
+
+# macOS
+.DS_Store
